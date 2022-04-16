@@ -1,2 +1,14 @@
-# weights name 
-YOLO_small.weights
+# Weights file download
+
+https://www.aliyundrive.com/s/qatsiGGrSNG
+
+# then change file type to '.ckpt'
+
+the file finally should be named as 'YOLO_small.ckpt' ,put on the directory './data/weights/'
+
+full path of weights file should be './data/weights/YOLO_small.ckpt'
+
+# run test
+
+back to root directory , run 'python test.py' thus can see the result. For more, see the code. wish luck.
+
