@@ -18,7 +18,7 @@ Tensorflow implementation of [YOLO](https://arxiv.org/pdf/1506.02640.pdf), inclu
 ~~3. Download [YOLO_small](https://drive.google.com/file/d/0B5aC8pI-akZUNVFZMmhmcVRpbTA/view?usp=sharing)
 weight file and put it in `data/weight`~~
 
-3. See [data/weights/Weights_file_describe.txt](https://github.com/samggggflynn/yolo_v1_tensorflow/blob/master/data/weights/Weights_file_describe.txt) for detial weights file with a 'Aliyundrive' link
+3. See [data/weights/Weights_file_describe.txt](https://github.com/samggggflynn/yolo_v1_tensorflow/blob/master/data/weights/Weights_file_describe.txt) for detail, download weights file with a 'Aliyundrive' link
 
 	- remember change file type to 'ckpt'
 
