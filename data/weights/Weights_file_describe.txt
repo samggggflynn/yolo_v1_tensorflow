@@ -1,6 +1,7 @@
 # Weights file download
 
-https://www.aliyundrive.com/s/qatsiGGrSNG
+「YOLO_small.mp4」- https://www.aliyundrive.com/s/ni5DYL3oY5X
+
 
 # then change file type to '.ckpt'
 
